@@ -1,0 +1,84 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 22500,
+      "type": "VEC3",
+      "max": [
+        149.0,
+        149.0,
+        110.79293212890626
+      ],
+      "min": [
+        0.0,
+        0.0,
+        24.978364562988283
+      ]
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "normalized": false,
+      "count": 133206,
+      "type": "SCALAR",
+      "max": [
+        22499
+      ],
+      "min": [
+        0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "pygltflib@v1.16.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 270000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 270000,
+      "byteLength": 532824
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "5x5km_terrain_model.bin",
+      "byteLength": 802824
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "indices": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
